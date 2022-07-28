@@ -7,10 +7,23 @@
 body{
     font-family: 'Roboto', sans-serif;
     display: flex;
-    flex-direction: column;
     align-items: center;
     justify-content: center;
     height: 100vh;
     overflow: hidden;
     margin: 0;
+}
+
+.container{
+    display: flex;
+    width: 90vh;
+}
+
+.step{
+    border-radius: 10px;
+    background-color: grey;
+    margin: 40px;
+    height: 3vh;
+    position: relative; 
+
 }
