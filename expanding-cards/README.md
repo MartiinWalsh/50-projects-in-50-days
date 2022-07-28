@@ -1,1 +1,3 @@
-# 50-projects-in-50-days
+# expanding-cards 🐕
+
+[Live Demo](https://expanding-cards-mw.netlify.app/)
