@@ -1,3 +1,3 @@
 # rotating-navigation
 
-[In Progress](https://rotating-nav-mw.netlify.app/)
+[Live Demo](https://rotating-nav-mw.netlify.app/)
