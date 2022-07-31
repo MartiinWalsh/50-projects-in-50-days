@@ -1,3 +1,3 @@
 # progress-steps 🪜
 
-[Live Demo]
+[Live Demo](https://progress-steps-mw.netlify.app/)
